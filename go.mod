@@ -19,4 +19,6 @@ require (
 	github.com/jackc/pgtype v1.10.0 // indirect
 	github.com/rabbitmq/amqp091-go v1.9.0 // indirect
 	golang.org/x/text v0.3.6 // indirect
+	google.golang.org/protobuf v1.32.0 // indirect
 )
+

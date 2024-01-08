@@ -12,3 +12,5 @@
 - docker stack rm myapp
 - docker stack deploy -c swarm.yml myapp
 - docker swarm leave --force
+
+- minikube addons enable ingress
